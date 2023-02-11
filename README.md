@@ -4,3 +4,4 @@
 <h3 align="center">Web developer, student of Creator IT Academy</h3>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RomZez1595&show_icons=true&locale=en&layout=compact" alt="RomZez1595" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dizer2&label=Profile%20views&color=0e75b6&style=flat" alt="romzez.1595" /> </p>
