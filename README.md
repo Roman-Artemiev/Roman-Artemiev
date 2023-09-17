@@ -1,6 +1,6 @@
 <br>
  <a>
-    <img scr="./assets/aesthetic-wallpaper.gif" alt="Banner" />
+    <img scr="aesthetic-wallpaper.gif" alt="Banner" />
  </a>
 <br>
 <h1 align="center">Hi there, I'm <a href="https://romzez1595.github.io/Portfolio/" target="_blank">Roman👋</a>
