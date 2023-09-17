@@ -18,7 +18,7 @@ jobs:
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: ${{ Roman-Artemiev }}
+          github_user_name: ${{ secrets.Roman-Artemiev }}
           outputs: dist/snake.svg
 
 
@@ -28,4 +28,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ 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 }}
+          GITHUB_TOKEN: ${{ secrets.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 }}
