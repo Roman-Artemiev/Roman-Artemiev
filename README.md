@@ -1,3 +1,9 @@
+<br>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=RomZez1595&label=Profile%20views&color=0e75b6&style=flat" alt="romzez.1595" /> </p>
+ <a>
+    <img scr="./assets/aesthetic-wallpaper.gif" alt="Banner" />
+ </a>
+<br>
 <h1 align="center">Hi there, I'm <a href="https://romzez1595.github.io/Portfolio/" target="_blank">Roman👋</a>
 <h3 align="center">A passionate full stack developer from Ukraine</h3>
 <br>
