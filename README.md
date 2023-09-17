@@ -26,13 +26,3 @@
 </div>
 
 ###
-
-###
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Roman-Artemiev/Roman-Artemiev/output/snake.svg" alt="Snake animation" />
-
-###
