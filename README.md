@@ -2,7 +2,7 @@
  <a>
     <img width="100%" src="./assets/aesthetic-wallpaper.gif" alt="Banner" />
  </a>
-<br>
+
 <h1 align="center">Hi there, I'm <a href="https://romzez1595.github.io/Portfolio/" target="_blank">Roman👋</a>
 <h3 align="center">A passionate full stack developer from Ukraine</h3>
 <br>
