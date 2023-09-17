@@ -1,5 +1,4 @@
 <br>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=RomZez1595&label=Profile%20views&color=0e75b6&style=flat" alt="romzez.1595" /> </p>
  <a>
     <img scr="./assets/aesthetic-wallpaper.gif" alt="Banner" />
  </a>
