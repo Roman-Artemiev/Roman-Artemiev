@@ -9,7 +9,7 @@
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=RomZez1595&label=Profile%20views&color=0e75b6&style=flat" alt="romzez.1595" /> </p>
 <br>
 
-- 🌱 I’m currently learning **Scss and React**
+- 🌱 I’m currently learning **React.js and Noda.js**
 
 - 💬 Ask me about **Web Development**
 
