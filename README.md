@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rartemev696@gmail.com**
 
-- ⚡ Fun fact **Most likely you are reading this from a PC or laptop.**
+- ⚡ Some project **https://yantarne.fm/, https://www.okfg.cz/**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
