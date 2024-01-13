@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **rartemev696@gmail.com**
 
-- ⚡ Some project **<a href="https://www.okfg.cz/" target="_blank">okfg.cz</a>**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
