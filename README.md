@@ -9,11 +9,11 @@
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=RomZez1595&label=Profile%20views&color=0e75b6&style=flat" alt="romzez.1595" /> </p>
 <br>
 
-- 🌱 I’m currently learning **React.js and Noda.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **rartemev696@gmail.com**
+- 📫 How to reach me **rartemev694@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
