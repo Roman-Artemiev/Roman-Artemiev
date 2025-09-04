@@ -9,7 +9,7 @@
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=RomZez1595&label=Profile%20views&color=0e75b6&style=flat" alt="romzez.1595" /> </p>
 <br>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Nest.js**
 
 - 💬 Ask me about **Web Development**
 
@@ -36,7 +36,7 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Roman-Artemiev&theme=dark" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Roman-Artemiev" alt="GitHub Streak" /></a>
 </div>
 
 ###
