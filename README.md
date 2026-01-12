@@ -30,13 +30,3 @@
 </p> 
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Roman-Artemiev" alt="GitHub Streak" /></a>
-</div>
-
-###
